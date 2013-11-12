@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrimaKraskal", "PrimaKraskal\PrimaKraskal.vcproj", "{460313D0-E81D-4B96-8FBB-35211418CEC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{460313D0-E81D-4B96-8FBB-35211418CEC5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{460313D0-E81D-4B96-8FBB-35211418CEC5}.Debug|Win32.Build.0 = Debug|Win32
+		{460313D0-E81D-4B96-8FBB-35211418CEC5}.Release|Win32.ActiveCfg = Release|Win32
+		{460313D0-E81D-4B96-8FBB-35211418CEC5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
